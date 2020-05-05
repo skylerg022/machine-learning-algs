@@ -1,2 +1,13 @@
-# CS472
-This repository contains project scaffolding, hints, and data for CS 472.
+# Machine Learning Algorithms
+
+This repository contains custom implementations and research on various machine learning algorithms.
+
+## Implementations to upload
+* Backprop
+* Perceptron
+* KNN
+* Decision Tree
+
+## Uploaded implementations and report
+* Clustering (HAC & K-Means)
+ 

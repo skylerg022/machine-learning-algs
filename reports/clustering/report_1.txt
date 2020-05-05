@@ -1,0 +1,19 @@
+Clusters: 4
+Total SSE: 6.6182
+
+Centroid 0 Location: [0.1961,0.5908,0.0786,0.06  ,0.    ]
+Observations in Cluster: 50
+Cluster SSE: 1.8450
+
+Centroid 1 Location: [0.5533,0.4083,0.6095,0.5683,0.5   ]
+Observations in Cluster: 25
+Cluster SSE: 0.5829
+
+Centroid 2 Location: [0.3556,0.2333,0.4956,0.4533,0.5   ]
+Observations in Cluster: 25
+Cluster SSE: 0.7063
+
+Centroid 3 Location: [0.6356,0.4058,0.7715,0.8025,1.    ]
+Observations in Cluster: 50
+Cluster SSE: 3.4840
+
